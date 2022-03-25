@@ -1,2 +1,2 @@
 # HamiltonianGraphs
-Random Hamiltonian graphs
+Random Hamiltonian graphs are used to compare the enhancements proposed to the Branch-and-Fix method. 
